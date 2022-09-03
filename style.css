@@ -1,0 +1,31 @@
+html {
+  background-color: white;
+}
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-text {
+ 	font-weight: bold;
+ }
+
+.card-body {
+	padding: 0px !important;
+}
+
+.border-primary {
+ 	border-width: 5px !important;
+}
+
+.bg-primary {
+	color: white;
+}
+
+ .border-success {
+ 	border-width: 5px !important;
+ }
+
+
